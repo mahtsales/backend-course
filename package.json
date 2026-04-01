@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mahtsales/backend-course/issues"
   },
-  "homepage": "https://github.com/mahtsales/backend-course#readme"
+  "homepage": "https://github.com/mahtsales/backend-course#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
