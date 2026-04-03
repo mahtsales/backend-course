@@ -8,4 +8,4 @@ app.get('/', function (req,res){ //app.get => usado para definir a rota da req H
     res.send('Hello World'); //endpoint prinicipal com a msg 'hello world'
 });
 
-app.listen();
+app.listen(3000);
